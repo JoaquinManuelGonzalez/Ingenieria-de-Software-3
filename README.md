@@ -1,6 +1,6 @@
 # Ingeniería de Software III
 
-Este repositorio contiene materiales y actividades para la asignatura Ingeniería de Software III, parte de la Licenciatura en Sistemas. [cite: 1, 2]
+Este repositorio contiene materiales y actividades para la asignatura Ingeniería de Software III, parte de la Licenciatura en Sistemas.
 
 ## Descripción
 
