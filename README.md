@@ -33,3 +33,4 @@ La asignatura brinda al futuro profesional una visión estratégica e integral d
 ## Link a resoluciones de las Prácticas
 
 - [Trabajo 1 - Administración de Proyectos y Costos](https://github.com/JoaquinManuelGonzalez/Ingenieria-de-Software-3/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%201%20-%20Administraci%C3%B3n%20de%20Proyectos%20y%20Costos.pdf)
+- [Trabajo 2 - Calidad de Software](https://github.com/JoaquinManuelGonzalez/Ingenieria-de-Software-3/blob/main/practicas/Resoluciones/Pr%C3%A1ctica%202%20-%20Calidad%20de%20Software.pdf)
